@@ -4,9 +4,9 @@
 ## My name is Jéssica Gambôa !
 
 
-- 🌱 Atualmente estou estudando Data Science,Bi & Data Engineering
-- 😄 Pronomes: dela/ela
-- ⚡ Curiosidade:Em transição de carreira para Dados <3
+- 🌱 Atualmente estou cursando o 1º semestre de  Data Science,Bi & Data Engineering na FIAP.
+- 😄 Pronomes: Ela/Dela
+- ⚡ Curiosidade: Em transição de carreira para Dados <3
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jessystem&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Jéssica Gambôa Cavalcante github stats"/> 
