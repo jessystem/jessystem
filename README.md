@@ -26,6 +26,7 @@ Desde sempre fui apaixonada por tecnologia e inovação, enxergando o potencial 
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+- ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=google-colab&logoColor=white)
 
  
 ### 🎲 Ciência de dados:
@@ -37,9 +38,9 @@ Desde sempre fui apaixonada por tecnologia e inovação, enxergando o potencial 
 
  
  ### Aprendendo no momento na faculdade:
- ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
+ - ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black)
+- ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
+- ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
 - ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?logo=apache-hadoop&logoColor=black)
 - ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
