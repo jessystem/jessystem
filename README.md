@@ -20,7 +20,7 @@ Desde sempre fui apaixonada por tecnologia e inovação, enxergando o potencial 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jessystem&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+## 🚀 Linguagens e Ferramentas:
  
 ### Uso diário : 
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
