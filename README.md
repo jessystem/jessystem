@@ -1,12 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ed1ee2&height=120&section=header"/>
 
-# 👋 Hello! Welcome to my Github profile.
-## My name is Jéssica Gambôa !
+#Olá! 👋 Bem-vinda(o) ao meu perfil no GitHub!
+Sou a Jéssica, uma profissional em transição de carreira para a área de Dados. Apaixonada por aprender e explorar como os dados podem transformar decisões e criar soluções inovadoras, estou atualmente estudando Ciência de Dados na FIAP. 🚀
 
+O que você encontrará aqui:
+Projetos de dados: Análises, visualizações e projetos práticos aplicando Python, SQL, e outras ferramentas.
 
-- 🌱 Atualmente estou cursando o 1º semestre de  Data Science,Bi & Data Engineering na FIAP.
-- 😄 Pronomes: Ela/Dela
-- ⚡ Curiosidade: Em transição de carreira para Dados <3
+Portfólio em desenvolvimento: Exemplos dos conhecimentos que estou adquirindo nos cursos e estudos.
+
+Curiosidade e paixão: Documentação detalhada, explicações e aprendizados compartilhados em cada repositório.
+
+Um pouco sobre minha transição:
+Desde sempre fui apaixonada por tecnologia e inovação, enxergando o potencial transformador dessas áreas. Após construir uma carreira em outro campo, decidi me reinventar e mergulhar no mundo dos dados, que abriram minha mente para novas possibilidades e formas de enxergar o universo ao nosso redor. Estou completamente dedicada a aprender e me desenvolver nessa nova jornada, enfrentando desafios com entusiasmo e determinação.
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jessystem&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Jéssica Gambôa Cavalcante github stats"/> 
