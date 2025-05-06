@@ -35,6 +35,7 @@ Desde sempre fui apaixonada por tecnologia e inovação, enxergando o potencial 
 - ![Numpy](https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white)
 - ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 - ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white)
+- [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
 
  
  ### Aprendendo no momento na faculdade:
@@ -44,6 +45,11 @@ Desde sempre fui apaixonada por tecnologia e inovação, enxergando o potencial 
 - ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?logo=apache-hadoop&logoColor=black)
 - ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+- [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+- [![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)](#)
+- [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+- [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+- [![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)](#)
 
 
 <div align="center">
