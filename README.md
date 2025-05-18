@@ -1,7 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ed1ee2&height=120&section=header"/>
+<p align="center">
+  <img src="https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif" width="800">
+</p>
 
-Olá! 👋 Seja muito bem-vinda(o) ao meu perfil no GitHub! 💻✨
-Sou a Jéssica Gambôa, uma profissional em transição de carreira para a área de Dados. 📊💡 Apaixonada por aprender e explorar como os dados podem transformar decisões e criar soluções inovadoras, estou atualmente estudando Ciência de Dados, Bi &Data engineering na FIAP. 🚀🎓
+
+## Olá! 👋 Seja muito bem-vinda(o) ao meu perfil no GitHub! 💻✨
+
+Sou a Jéssica Gambôa, uma profissional em transição de carreira para a área de Dados. 
+📊💡 Apaixonada por aprender e explorar como os dados podem transformar decisões e criar soluções inovadoras, estou atualmente estudando Ciência de Dados, Bi &Data engineering na FIAP. 🚀🎓
 
 O que você encontrará aqui:
 📂 Projetos de dados: Análises, visualizações e projetos práticos aplicando Python, SQL e outras ferramentas.
@@ -17,7 +22,12 @@ Desde sempre fui apaixonada por tecnologia e inovação, enxergando o potencial 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jessystem&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Jéssica Gambôa Cavalcante github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessystem&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JenniGabriely01/JenniGabriely01/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JenniGabriely01/JenniGabriely01/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/JenniGabriely01/JenniGabriely01/output/github-snake.svg" />
+</picture>
 
 
 ## 🚀 Linguagens e Ferramentas:
