@@ -1,34 +1,35 @@
-<p align="center">
-  <img src="https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif" width="800">
-</p>
+![👋 Olá, meu nome é Jéssica!](https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif?1694002774)
+
+![Profile views](https://komarev.com/ghpvc/?username=jessystem&label=Profile%20views&color=0e75b6&style=flat)
+
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Olá, meu nome é Jéssica!
+      </h1>
+    </summary>
+  </ul>
+</div>
+
+**<h3 align="left">🚀 Uma profissional em transição de carreira para a área de Dados. 
+📊 Apaixonada por aprender e explorar como os dados podem transformar decisões e criar soluções inovadoras, estou atualmente estudando Ciência de Dados, Bi & Data engineering na FIAP.</h3>**
 
 
-## Olá! 👋 Seja muito bem-vinda(o) ao meu perfil no GitHub! 💻✨
+O que você encontrará aqui?
 
-Sou a Jéssica Gambôa, uma profissional em transição de carreira para a área de Dados. 
-📊💡 Apaixonada por aprender e explorar como os dados podem transformar decisões e criar soluções inovadoras, estou atualmente estudando Ciência de Dados, Bi &Data engineering na FIAP. 🚀🎓
-
-O que você encontrará aqui:
 📂 Projetos de dados: Análises, visualizações e projetos práticos aplicando Python, SQL e outras ferramentas.
 
 📚 Portfólio em desenvolvimento: Exemplos dos conhecimentos que estou adquirindo nos cursos e estudos.
 
-🌟 Curiosidade e paixão: Tecnologias, 🐾 gatos, 📖 livros e ☕ café!
 
-Um pouco sobre minha transição:
-Desde sempre fui apaixonada por tecnologia e inovação, enxergando o potencial transformador dessas áreas. Após construir uma carreira em outro campo, decidi me reinventar e mergulhar no mundo dos dados, que abriram minha mente para novas possibilidades e formas de enxergar o universo ao nosso redor. 🌌 Estou completamente dedicada a aprender e me desenvolver nessa nova jornada, enfrentando desafios com muito entusiasmo e determinação. 💪✨
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jessystem&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Jéssica Gambôa Cavalcante github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessystem&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JenniGabriely01/JenniGabriely01/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JenniGabriely01/JenniGabriely01/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/JenniGabriely01/JenniGabriely01/output/github-snake.svg" />
-</picture>
+**<h3 align="left">GitHub Stats</h3>**
 
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jessystem&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=jessystem&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+</p>
 
 ## 🚀 Linguagens e Ferramentas:
  
@@ -62,10 +63,7 @@ Desde sempre fui apaixonada por tecnologia e inovação, enxergando o potencial 
 - [![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)](#)
 
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jessystem}/count.svg" /></p> 
-<br></div>
+![Profile views](https://komarev.com/ghpvc/?username=jessystem&label=Profile%20views&color=0e75b6&style=flat)
 
 ## Contatos:
 
