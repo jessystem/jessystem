@@ -12,7 +12,7 @@
   </ul>
 </div>
 
-# 👋 Olá, meu nome é Jéssica!  
+
 
 🚀 **Explorando novos horizontes na área de Dados**  
 📊 **Atualmente cursando Ciência de Dados, BI & Data Engineering na FIAP**  
