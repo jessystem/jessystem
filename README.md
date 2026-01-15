@@ -4,7 +4,7 @@
 
 * Explorando novos horizontes na área de Dados.
   
-* Data Science, Artificial Intelligence, Analytics, Cloud & Data Plataform na FIAP, 2º semestre.
+* Data Science, Artificial Intelligence, Analytics, Cloud & Data Plataform na FIAP, 3º semestre.
 
 ---
 
